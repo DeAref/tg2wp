@@ -1,5 +1,5 @@
 <?php
-
+  
 define('API_KEY','YourTelegramBotToken');
 define('MAIN_DIR',$_SERVER['DOCUMENT_ROOT'].'/your_app_directory/');
 define('MAIN_PATH','https://your.domain//your_app_directory//');
